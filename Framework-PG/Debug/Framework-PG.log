@@ -1,0 +1,4 @@
+﻿  SceneManager.cpp
+D:\Giurafinha\Documents\Processamento Gráfico 2021-1\PG2021-1-main2\PG2021-1-main\Framework-PG\Framework-PG\SceneManager.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+D:\Giurafinha\Documents\Processamento Gráfico 2021-1\PG2021-1-main2\PG2021-1-main\Framework-PG\Framework-PG\SceneManager.cpp(253,20): warning C4018: '<': signed/unsigned mismatch
+  Framework-PG.vcxproj -> D:\Giurafinha\Documents\Processamento Gráfico 2021-1\PG2021-1-main2\PG2021-1-main\Framework-PG\Debug\Framework-PG.exe
